@@ -48,8 +48,8 @@ The dataset includes the following features:
 https://huggingface.co/spaces/zzeyynepp/sleep-quality-predictor
 
 ## 👩‍💻 Developers
-- Zeynep Kediz  
-- Furkan Keskin
+- Zeynep Kediz
+- https://github.com/frknkeskin
 
 ---
 
