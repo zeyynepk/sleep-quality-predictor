@@ -1,0 +1,3 @@
+python -u "C:\Users\Furkan\Desktop\sleep_quality_project\kodlar\trainCNN.py"
+
+python -m streamlit run .\kodlar\app.py
